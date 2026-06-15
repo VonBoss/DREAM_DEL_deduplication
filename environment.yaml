@@ -1,0 +1,13 @@
+name: del-dedup
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=2.3.3
+  - pandas=2.3.2
+  - matplotlib=3.10.6
+  - tqdm=4.67.1
+  - polars=1.38.1
+  - ipykernel=6.31.0
+  - pyarrow=24.0.0
